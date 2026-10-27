@@ -15,3 +15,6 @@ SQLite (for storing meal history)
 PIL (for image processing)
 ReportLab (for generating PDFs)
 Environment Management: dotenv (for API keys and configurations)
+
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/f490d6cf-05eb-4dc9-b4db-ca352ba8cc00" />
+
